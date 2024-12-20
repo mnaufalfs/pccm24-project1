@@ -1,7 +1,7 @@
 FROM alpine
 
-LABEL Maintainer="Ilham" \
-    email="hmdilham@gmail.com" \
+LABEL Maintainer="Naufal" \
+    email="naufalnaufal121git@gmail.com" \
     version="1.0"
 
 RUN touch pccm-2024.txt && \
